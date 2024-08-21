@@ -1,3 +1,7 @@
+## You have to install following
+## pip install pyperclip pynput
+
+
 import time
 import pyperclip
 from pynput.keyboard import Key, Controller
